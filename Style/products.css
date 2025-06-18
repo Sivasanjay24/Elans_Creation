@@ -67,11 +67,16 @@ main .container{
     font-size: 18px;
     color: #818181;
     display: block;
-    transition: 0.3s;
+    transition: 0.9s;
 }
 .shop_categories a.active,
 .shop_categories a:hover {
     color: #333333;
+}
+#list
+{
+    padding-left: 20px;
+    display:none
 }
 
 /*---------------- products ---------------------*/
